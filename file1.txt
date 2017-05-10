@@ -1,4 +1,10 @@
+
+line 1 from julia
+another line
+hi everyone
+
 line 1 from manager
 another line line
 no fixing merge conflicts is a hell
+
 
